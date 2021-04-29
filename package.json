@@ -17,7 +17,7 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^8.1.0",
-    "chai": "^4.2.0"
+    "chai": "^4.3.4"
   },
   "bugs": {
     "url": "https://github.com/Apollon77/iobroker-tools/issues"
