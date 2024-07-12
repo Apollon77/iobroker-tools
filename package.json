@@ -1,6 +1,6 @@
 {
   "name": "@apollon/iobroker-tools",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Some tooling functions for iobroker adapter development",
   "author": "Ingo Fischer <iobroker@fischer-ka.de>",
   "contributors": [],
@@ -16,8 +16,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^9.2.2",
-    "chai": "^4.3.6"
+    "mocha": "^10.6.0",
+    "chai": "^4.4.1"
   },
   "bugs": {
     "url": "https://github.com/Apollon77/iobroker-tools/issues"
