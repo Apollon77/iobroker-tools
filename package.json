@@ -16,7 +16,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^10.6.0",
+    "mocha": "^11.7.5",
     "chai": "^4.4.1"
   },
   "bugs": {
